@@ -288,6 +288,7 @@
             }
         },
         "map": {
+            "errorLoadingFont": "The markers with font family: {family} will not render correctly, because the font was not loaded",
             "loading": "Učitavanje...",
             "loadingSpinner": "Učitavanje karte",
             "loadingerror": "Greška prilikom učitavanja",
@@ -1455,10 +1456,8 @@
             "clearbtn": "Izbriši sve",
             "selectbtn": "Odaberi sve",
             "placeholders": {
-                "filter": "Traži...",
                 "role": "Unesi za pretragu rola",
                 "user": "Unesi za pretragu korisnika",
-                "ip": "Odaberi IP",
                 "service": "Unesi za pretragu servisa",
                 "request": "Unesi za pretragu vrste upita",
                 "workspace": "Unesi za pretragu radnog okruženja",
